@@ -3,3 +3,4 @@ Some visual improvements from v1.2
 - change background color
 - removed products list
 - changed corporation to shop
+- resized the main big picture
